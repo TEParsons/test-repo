@@ -1,7 +1,7 @@
 {
     "source": "curated",
     "name": "Microphone Transcription",
-    "author": "Open Science Tools",
+    "author": "ost",
     "icon": "microphone.png",
     "description": "Packages necessary to provide a text transcription of local Microphone recordings, either through a free Python package or through Google's paid transcription service.",
     "website": "",
