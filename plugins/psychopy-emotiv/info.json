@@ -1,0 +1,9 @@
+{
+    "source": "community",
+    "name": "Emotiv EEG",
+    "author": "Emotiv",
+    "icon": "emotiv_record.png",
+    "description": "Components for working with Emotiv EEG systems.",
+    "website": "",
+    "keywords": ["emotiv", "eeg"]
+}

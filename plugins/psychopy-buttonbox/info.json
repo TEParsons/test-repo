@@ -1,0 +1,9 @@
+{
+    "source": "curated",
+    "name": "Button Boxes",
+    "author": "Open Science Tools",
+    "icon": "cedrusBox.png",
+    "description": "Components for working with button boxes such as those by Cedrus or ioLabs.",
+    "website": "",
+    "keywords": ["hardware", "buttonbox", "input"]
+}

@@ -1,0 +1,9 @@
+{
+    "source": "curated",
+    "name": "PsychoPy Legacy",
+    "author": "Open Science Tools",
+    "icon": "mouse.png",
+    "description": "Contains depricated components which are no longer needed or in active development, allowing you to work with old experiments using these components.",
+    "website": "",
+    "keywords": ["legacy"]
+}
